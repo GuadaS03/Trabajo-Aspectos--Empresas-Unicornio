@@ -1,7 +1,11 @@
 Las empresas unicornio son aquellas compañías que logran generar un valor de 1.000 millones 
 de dólares durante su primer año de lanzamiento al mercado, aún sin haber ingresado a la bolsa de valores, 
 y sin contar con el financiamiento de inversionistas u otras empresas más grandes.
- 
+
+El término fue acuñado por primera vez en 2013 por Aileen Lee, la fundadora de Cowboy Ventures. 
+Ella definió a las empresas unicornio como: “una compañía tecnológica que alcanza el valor de 1.000 millones 
+de dólares en algún momento de su proceso de levantamiento de capital, sin llegar a cotizar en bolsa”. 
+
 En su mayoría se trata de startups, es decir, empresas que proveen algún servicio tecnológico innovador. 
 Algunas no llegan a cumplir los 10 años de antigüedad, pero su crecimiento escaló tanto que ya lograron
 ganancias que superan el billón de dólares.
